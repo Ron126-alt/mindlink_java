@@ -1,0 +1,9 @@
+db.properties
+
+.project
+.classpath
+.settings/
+
+bin/
+build/
+target/
